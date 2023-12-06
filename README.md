@@ -7,7 +7,7 @@
 I'm dedicated and through Full Stack Web Developer with huge amount experience in various tech spheres.
 
 Main stack include:</br>
-➢ React, Nuxt.js, Vue with Composition API, Vuex, Pinia, React, Next.js, Redux, Redux-Thunk</br>
+➢ React, React Native, Nuxt.js, Vue with Composition API, Vuex, Pinia, React, Next.js, Redux, Redux-Thunk</br>
 ➢ PHP, Laravel, Laravel-mix, Node.js, Nest.js, Koa and Adonis JS for Node framework</br>
 ➢ Javascript, Typescript, SASS, SCSS, Tailwind CSS, Material UI, BootstrapVue, Quasar, Vuetify, Restful API, GraphQL</br>
 ➢ MySQL, PostgreSQL, MongoDB, Firebase, AWS(S3, Amplify, EC2), Stripe.com, WebSocket, Socket.io</br>
@@ -22,11 +22,11 @@ Thank you for visiting my Profile!
 
 Regards...
 
-### Github Stats
+### My Stats
 
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonmax0623&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonmax0623&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=sword719&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sword719&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <br/>
 
 ### Languages and Tools:
