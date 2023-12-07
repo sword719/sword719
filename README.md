@@ -1,11 +1,12 @@
 ### Senior Full-Stack Software Engineer
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div></br>
 
-<div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 I'm dedicated and through Full Stack Web Developer with huge amount experience in various tech spheres.
 
 Main stack include:</br>
+
 ➢ React, React Native, Nuxt.js, Vue with Composition API, Vuex, Pinia, React, Next.js, Redux, Redux-Thunk</br>
 ➢ PHP, Laravel, Laravel-mix, Node.js, Nest.js, Koa and Adonis JS for Node framework</br>
 ➢ Javascript, Typescript, SASS, SCSS, Tailwind CSS, Material UI, BootstrapVue, Quasar, Vuetify, Restful API, GraphQL</br>
@@ -24,11 +25,11 @@ Regards...
 ### My Stats
 
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sword719&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sword719&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sword719&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="175px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sword719&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="175px"/></a>
 
 ### Languages and Tools:
-
+</br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
